@@ -1,0 +1,1 @@
+C:\wamp64\www\c-sharp\sistema-sharp\AppConsole\AppConsole\bin\Debug\AppConsole.exe.config
