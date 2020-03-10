@@ -1,1 +1,6 @@
 C:\wamp64\www\c-sharp\sistema-sharp\AppConsole\AppConsole\bin\Debug\AppConsole.exe.config
+C:\wamp64\www\c-sharp\sistema-sharp\AppConsole\AppConsole\bin\Debug\AppConsole.exe
+C:\wamp64\www\c-sharp\sistema-sharp\AppConsole\AppConsole\bin\Debug\AppConsole.pdb
+C:\wamp64\www\c-sharp\sistema-sharp\AppConsole\AppConsole\obj\Debug\AppConsole.csprojResolveAssemblyReference.cache
+C:\wamp64\www\c-sharp\sistema-sharp\AppConsole\AppConsole\obj\Debug\AppConsole.exe
+C:\wamp64\www\c-sharp\sistema-sharp\AppConsole\AppConsole\obj\Debug\AppConsole.pdb
